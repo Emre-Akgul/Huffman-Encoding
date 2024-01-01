@@ -1,9 +1,5 @@
 package patmat
 
-/**
- * The interface used by the grading infrastructure. Do not change signatures
- * or your submission will fail with a NoSuchMethodError.
- */
 trait HuffmanInterface:
   def weight(tree: CodeTree): Int
   def chars(tree: CodeTree): List[Char]
