@@ -10,10 +10,10 @@ Detailed logging of the encoding and decoding process.
 ## Installation and Setup
 To set up this project:
 
-Clone the repository
+Clone the repository:
     git clone https://github.com/Emre-Akgul/Huffman-Encoding
     
-Navigate to the project directory
+Navigate to the project directory:
     cd [Project directory]
     
 Compile the Scala files (ensure Scala is installed):
