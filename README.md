@@ -12,8 +12,10 @@ To set up this project:
 
 Clone the repository
     git clone https://github.com/Emre-Akgul/Huffman-Encoding
+    
 Navigate to the project directory
     cd [Project directory]
+    
 Compile the Scala files (ensure Scala is installed):
     scalac *.scala
 
