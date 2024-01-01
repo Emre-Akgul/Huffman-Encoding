@@ -17,9 +17,9 @@ Navigate to the project directory
 Compile the Scala files (ensure Scala is installed):
     scalac *.scala
 
-##Usage
+## Usage
 Run the main application:
 
-##Contact Information
+## Contact Information
 For any additional questions or collaboration opportunities, feel free to contact me at emreakgulcs@gmail.com or visit my GitHub Profile.
 
