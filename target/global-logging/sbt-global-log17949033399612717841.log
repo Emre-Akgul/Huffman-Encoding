@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(32af8fdf-984c-410d-b88a-b8e852eca476), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to C:\Users\90541\Documents\Huffman-Encoding\target\scala-3.3.0\classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 6 s, completed Jan 3, 2024, 10:40:24 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,28 @@
+2024.01.01 16:08:28 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\90541\Documents\Huffman-Encoding\src\main' for client Visual Studio Code 1.85.1.
+2024.01.01 16:08:31 INFO  Running List(C:\Users\90541\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\90541\Documents\Huffman-Encoding\src\main)
+2024.01.01 16:08:31 INFO  Attempting to connect to the build server...
+2024.01.01 16:08:31 INFO  Running BSP server List(C:\Users\90541\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\90541\Documents\Huffman-Encoding\src\main\.scala-build\ide-options-v2.json, C:\Users\90541\Documents\Huffman-Encoding\src\main)
+2024.01.01 16:08:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\90541\Documents\Huffman-Encoding\src\main\.metals\bsp.trace.json or C:\Users\90541\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.01.01 16:08:33 INFO  Shutting down server
+2024.01.01 16:08:33 INFO  shutting down Metals
+2024.01.01 16:08:33 INFO  no build target found for C:\Users\90541\Documents\Huffman-Encoding\src\main\HuffmanInterface.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.01 16:08:33 INFO  Exiting server
+2024.01.02 02:55:35 INFO  Started: Metals version 1.2.0 in folders 'C:\Users\90541\Documents\Huffman-Encoding\src\main' for client Visual Studio Code 1.85.1.
+2024.01.02 02:55:36 WARN  No build session currently active to reload.
+2024.01.02 02:55:36 INFO  Attempting to connect to the build server...
+2024.01.02 02:55:36 INFO  Running BSP server List(C:\Users\90541\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\90541\Documents\Huffman-Encoding\src\main\.scala-build\ide-options-v2.json, C:\Users\90541\Documents\Huffman-Encoding\src\main)
+2024.01.02 02:55:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\90541\Documents\Huffman-Encoding\src\main\.metals\bsp.trace.json or C:\Users\90541\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.01.02 02:55:39 INFO  BSP server: Starting compilation server
+2024.01.02 02:55:42 INFO  time: Connected to build server in 6.35s
+2024.01.02 02:55:42 INFO  Connected to Build server: scala-cli v1.1.0
+2024.01.02 02:55:42 INFO  time: Imported build in 0.12s
+2024.01.02 02:55:43 INFO  compiling main_bd2c96d2de (3 scala sources)
+2024.01.02 02:55:49 INFO  time: indexed workspace in 6.53s
+2024.01.02 02:55:51 INFO  Shutting down server
+2024.01.02 02:55:51 INFO  shutting down Metals
+2024.01.02 02:55:52 INFO  time: compiled main_bd2c96d2de in 8.78s
+2024.01.02 02:55:52 INFO  Shut down connection with build server.
+2024.01.02 02:55:52 INFO  scala-cli should support `buildTarget/jvmRunEnvironment`, but it fails.
+2024.01.02 02:55:52 INFO  Scala test classes not supported by server
+2024.01.02 02:55:52 INFO  Scala main classes not supported by server
+2024.01.02 02:55:53 INFO  Exiting server

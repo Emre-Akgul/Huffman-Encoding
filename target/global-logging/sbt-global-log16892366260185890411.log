@@ -1,0 +1,16 @@
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(sbtMapExec 5 __f7bb13a3-9ed9-4c79-9ffc-e3761210c916, None, None)
+[debug] > Exec(bspBuildTargetDependencySources file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Compile file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Test file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding-build, Some(__f7bb13a3-9ed9-4c79-9ffc-e3761210c916), Some(CommandSource(network-1)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing buildTarget/dependencySources"})
+[debug] Evaluating tasks: bspBuildTargetDependencySources
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Canceling execution...
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])
+[error] Cancelled: bspBuildTargetDependencySources file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Compile file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Test file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding-build
+[error] Cancelled: bspBuildTargetDependencySources file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Compile file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding/Test file:/C:/Users/90541/Documents/Huffman-Encoding/#huffman-encoding-build
+[error] Use 'last' for the full log.
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(sbtReportResult 5, Some(5), Some(CommandSource(network-1)))
+[debug] > Exec(shell, None, None)
