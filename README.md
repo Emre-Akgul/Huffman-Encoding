@@ -26,11 +26,15 @@ Clone the repository:
 Navigate to the project directory:
     cd [Project directory]
     
-Compile the Scala files (ensure Scala is installed):
-    scalac *.scala
+Ensure sbt is installed on your system. In the project directory, use the following command to for running sbt:
+	sbt
 
 ## Usage
-Run the main application:
+After installation and setp run the main application by using following command on sbt:
+	run
+	
+For testing use following command on sbt:
+	test
 
 ## Contact Information
 For any additional questions or collaboration opportunities, feel free to contact me at emreakgulcs@gmail.com or visit my GitHub Profile.
